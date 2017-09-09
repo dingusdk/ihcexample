@@ -2,7 +2,8 @@
 
 This is an example to show how to use the IHCSdkWR library to communicate with the IHC controller.
 
-You can get the library from nuget under the name **Dingus.IHCSdkWR**
+You can get the library from NuGet under the name **Dingus.IHCSdkWR**
+(If it does not download automatically for this example then right click the solution and "Restore NuGet packages")
 
 This example will show you:
 
